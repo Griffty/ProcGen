@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7da4cf271c074267a2d46f0ca715d704, type: 3}
+  m_Name: Main city
+  m_EditorClassIdentifier: Assembly-CSharp::GradietnGridVoronoiGenerationSettings
+  vPx: a10000006d0000009100000077000000640000006b010000fe0000003e0100003101000042010000f1010000fc010000c801000008020000ce010000d10200009602000097020000de0200008f020000b0030000430300006d0300008c03000074030000
+  vPy: 9900000057010000c4010000dc02000088030000280000002e010000c101000074020000a8030000970000005e0100001a020000ac0200007c0300006b00000035010000eb0100008a020000ad0300001800000027010000ea0100009e0200004a030000
+  mapSize: 984
+  gridSize: 5
+  minPointsDistance: 100
+  maxRetries: 100
+  distributionModifier: 0.41
+  innerGradientModifier: 0.45
+  outerGradientModifier: 0.95
